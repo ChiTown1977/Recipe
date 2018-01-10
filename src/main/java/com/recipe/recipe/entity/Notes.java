@@ -5,6 +5,7 @@ import javax.persistence.*;
 /**
  * @author Daniel Tominov on 1/8/2018
  */
+@Entity
 public class Notes {
 
     @Id
